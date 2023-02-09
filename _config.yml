@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: "Mark Howland PhD"
-description: "I'm Mark, a data scientist, data strategist and product developer. My portfolio contains projects that have helped me refresh and update my coding skills. They solve commercial consumer data challenges. Please visit my Github & LinkedIn pages by using the links below"
+description: "I'm a data scientist, data strategist and product developer. My portfolio contains projects that have helped me refresh and update my coding skills. They solve commercial, consumer data challenges. Please visit my Github & LinkedIn pages by using the links below"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
